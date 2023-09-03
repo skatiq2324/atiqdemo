@@ -1,4 +1,4 @@
 # atiqdemo
 first repo
 <br>
-author - atiq
+author - atiq rehman
